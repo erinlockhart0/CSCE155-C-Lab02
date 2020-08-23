@@ -11,14 +11,14 @@ was born on September 9th, 1941.  If he were still alive,
 how old would he be today?  Find out by running the `birthday`
 program on the appropriate inputs and enter your solution here.
 
-      78 years, 49 weeks, 6 days old
+         78 years, 49 weeks, 6 days old
 
 
 2. Bjarne Stroustrup, the creator of the C++ programming
 language, the object-oriented extension of C, was born on 
 December 30th, 1950.  How old is he today?
 
-      69 years, 33 weeks, 6 days old
+           69 years, 33 weeks, 6 days old
 
 
 3. Software testing often involves testing code with known
@@ -28,9 +28,9 @@ program by giving it "bad" input and observe the consequences.
 Give at least two examples of potentially bad input and the 
 results you observe.
 
-      Dennis 1941 9 --> Error: Invalid number of command line inputs
+        Dennis 1941 9 --> Error: Invalid number of command line inputs
 
-      Den nis 1941 9 9 --> bash: Den: command not found
+        Den nis 1941 9 9 --> bash: Den: command not found
 
 
 4. Complete all the size and range entries below.
