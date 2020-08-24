@@ -86,20 +86,20 @@ Why or why not?
 a) Run the `area` program with 3 and 4 as inputs.  
 What value do you get?  Is this result correct?
 
-         0.000000 - incorrect
+         0.000000 square units - incorrect
 
 
 b) Execute the program again with inputs 3 and 5.
 Does the program give correct results?  Why not?
 
-         0.00000 - incorrect, the program is wrong
+         0.00000 square units - incorrect, the program is wrong
          area is a double but it is computing with integers (1/2) which would compute to 0
-         the computation should be 1.0 / 2.0
+         the computation should be (double) 1 / 2 OR 1.0 / 2.0
 
 c) Fix the program by editing the `area.c` source 
 code so that the program produces correct results.
 
-         a) 6.000000
-         b) 7.500000
+         a) 6.000000 square units
+         b) 7.500000 square units
 
 
