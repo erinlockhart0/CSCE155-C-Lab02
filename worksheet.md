@@ -2,7 +2,7 @@
 # CSCE 155E 
 ## Lab 2.0 Worksheet
 
-Name(s) and Login(s):
+Name(s) and Login(s): Erin Lockhart / erinlockhart0
 
 
 
