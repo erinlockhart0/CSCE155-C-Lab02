@@ -59,12 +59,15 @@ results you observe.
 the exchange amounts for the following inputs:
 
   a) $250.25
+         
          67.67 British Pounds and 8648.64 Japanese JPY
   
   b) $1,000.52
+         
          270.14 British Pounds and 34577.97 Japanese JPY
 
   c) $968,410.12
+         
          261470.73 British Pounds and 33468253.75 Japanese JPY
   
 
