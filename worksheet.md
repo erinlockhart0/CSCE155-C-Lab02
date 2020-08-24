@@ -78,7 +78,7 @@ to use it to convert the US national debt
 (which as of 2020 was \$26,009,754,625,487)?
 Why or why not?
 
-
+          You would not be able to convert it because the debt is greater than the range that int is capable of using.
 
 
 7. Mixed types
